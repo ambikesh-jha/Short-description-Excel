@@ -1,0 +1,6 @@
+pandas 
+docx2txt
+fastapi
+uvicorn
+openpyxl
+joblib
